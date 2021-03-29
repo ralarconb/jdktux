@@ -4,7 +4,7 @@
 - Run from command line
 ```sh
 cd ...\jdktux\target\classes
-java com.rab.jdktux.Hello
+java Hello
 ```
 - Clone the repo
 - Go into the project directory
