@@ -6,4 +6,11 @@
 cd ...\jdktux\target\classes
 java com.rab.jdktux.Hello
 ```
-- 
+- Clone the repo
+- Go into the project directory
+- Build the image
+```sh
+git clone https://github.com/ralarconb/jdktux.git
+cd jdktux
+docker build -t jdktux:1.0 .
+```

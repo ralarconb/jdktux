@@ -12,6 +12,6 @@ ENV JAVA_HOME /usr/lib/jvm/java-1.8-openjdk
 ENV PATH $PATH:$JAVA_HOME/bin
 
 # Compile
-RUN javac com.rab.jdktux.Hello.java
+RUN javac com.rab.jdktux.Hello
 
 ENTRYPOINT java com.rab.jdktux.Hello
