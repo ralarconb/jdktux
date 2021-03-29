@@ -14,4 +14,4 @@ ENV PATH $PATH:$JAVA_HOME/bin
 # Compile
 RUN javac Hello.java
 
-ENTRYPOINT java com.rab.jdktux.Hello
+ENTRYPOINT java Hello
