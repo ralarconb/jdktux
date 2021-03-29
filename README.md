@@ -1,5 +1,5 @@
 # jdktux
-- How to schedule an executable jar on linux.
+- A Java hello world on Docker example.
 # Steps by step
 - Run from command line
 ```sh
