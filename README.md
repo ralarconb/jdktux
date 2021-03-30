@@ -6,11 +6,11 @@
 cd ...\jdktux\target\classes
 java Hello
 ```
-- Clone the repo
-- Go into the project directory
-- Build the image
-- List image
-- Run the container
+- I'm going to clone the repository.
+- Next, go into the project directory.
+- Build the Docker image of my project.
+- Once the image has been created, I'm going to check my new image.
+- And finally, run the container.
 ```sh
 git clone https://github.com/ralarconb/jdktux.git
 cd jdktux
